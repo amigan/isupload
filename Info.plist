@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AMAccepts</key>
+	<dict>
+		<key>Container</key>
+		<string>List</string>
+		<key>Optional</key>
+		<true/>
+		<key>Types</key>
+		<array>
+			<string>com.apple.cocoa.path</string>
+		</array>
+	</dict>
+	<key>AMApplication</key>
+	<string>Automator</string>
+	<key>AMCanShowSelectedItemsWhenRun</key>
+	<false/>
+	<key>AMCanShowWhenRun</key>
+	<true/>
+	<key>AMCategory</key>
+	<string>AMCategoryInternet</string>
+	<key>AMDefaultParameters</key>
+	<dict>
+		<key>loginCheck</key>
+		<false/>
+		<key>lblUser</key>
+		<string>Username:</string>
+		<key>usernameField</key>
+		<string></string>
+		<key>lblPass</key>
+		<string>Password:</string>
+		<key>passField</key>
+		<string></string>
+	</dict>
+	<key>AMDescription</key>
+	<dict>
+		<key>AMDInput</key>
+		<string>Paths to images, of any type and size ImageShack supports.</string>
+		<key>AMDOptions</key>
+		<string>If the &quot;Login&quot; checkbox is unchecked, images are uploaded anonymously. Otherwise, they appear under your account.</string>
+		<key>AMDResult</key>
+		<string>URLs to the *full* images on ImageShack&apos;s server.</string>
+		<key>AMDSummary</key>
+		<string>Uploads images to ImageShack, a free image hosting service.</string>
+		<key>AMDWebsite</key>
+		<string>http://blog.theamigan.net/</string>
+	</dict>
+	<key>AMIconName</key>
+	<string>(* The name of the icon *)</string>
+	<key>AMKeywords</key>
+	<array>
+		<string>Images</string>
+		<string>Web</string>
+	</array>
+	<key>AMName</key>
+	<string>Upload to ImageShack</string>
+	<key>AMProvides</key>
+	<dict>
+		<key>Container</key>
+		<string>List</string>
+		<key>Types</key>
+		<array>
+			<string>com.apple.cocoa.url</string>
+		</array>
+	</dict>
+	<key>AMRequiredResources</key>
+	<array/>
+	<key>AMWarning</key>
+	<dict>
+		<key>Action</key>
+		<string>(* Action name to be suggested to add prior to this action to make the task safer, e.g. com.apple.Automator.CopyFiles, goes here. *)</string>
+		<key>ApplyButton</key>
+		<string>(* Button label for user to add proposed Action, e.g. Add. *)</string>
+		<key>IgnoreButton</key>
+		<string>(* Button label for user not to add proposed Action, e.g. Don&apos;t Add. *)</string>
+		<key>Level</key>
+		<integer>0</integer>
+		<key>Message</key>
+		<string>(* Warning message presented to user goes here. *)</string>
+	</dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleGetInfoString</key>
+	<string>1.0, Copyright © 2009 Dan Ponte, All Rights Reserved</string>
+	<key>CFBundleIconFile</key>
+	<string></string>
+	<key>CFBundleIdentifier</key>
+	<string>net.theamigan.Automator.${PRODUCT_NAME:identifier}</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2009 Dan Ponte.</string>
+	<key>NSPrincipalClass</key>
+	<string>ISUpload</string>
+</dict>
+</plist>

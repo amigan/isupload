@@ -1,0 +1,264 @@
+TUpload to ImageShack
+v7
+r0
+t273647069.302031
+cCheck dependencies
+cProcessInfoPlistFile "/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action/Contents/Info.plist" Info.plist
+cCopyStringsFile "/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/dcp1990/Development/Upload to ImageShack/English.lproj/main.xib"
+cProcessPCH /var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/ISUpload_Prefix-hevtgkfzfbzveygibxqlnyrswbbr/ISUpload_Prefix.pch.gch ISUpload_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/Objects-normal/x86_64/ISUpload.o" "/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action/Contents/MacOS/ISUpload" normal x86_64
+cPhaseScriptExecution "Run Script" "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/Script-25038767080C6D0B00E1128B.sh"
+cTouch "/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Automator.framework/Headers/AMAction.h
+c000000004A583AAC00000000000009C3
+t1247296172
+s2499
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Automator.framework/Headers/AMBundleAction.h
+c000000004A583AAC00000000000002F4
+t1247296172
+s756
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OSAKit.framework/Headers/OSAKit.h
+c000000004A597173000000000000011E
+t1247375731
+s286
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/curl/curl.h
+c000000004A11D204000000000001110E
+t1242681860
+s69902
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/curl/easy.h
+c000000004A11D2040000000000000DC6
+t1242681860
+s3526
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/curl/types.h
+c000000004A11D204000000000000000F
+t1242681860
+s15
+
+N/System/Library/Frameworks/Automator.framework/Automator
+c000000004A583AB2000000000071D740
+t1247296178
+s7460672
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/OSAKit.framework/OSAKit
+c000000004A59718600000000001457D0
+t1247375750
+s1333200
+
+N/Users/dcp1990/Development/Upload to ImageShack/English.lproj/InfoPlist.strings
+c000000004A9F4E590000000000000C3E
+t1251954265
+s3134
+
+N/Users/dcp1990/Development/Upload to ImageShack/English.lproj/main.xib
+c000000004A9F4350000000000000C49A
+t1251951440
+s50330
+
+N/Users/dcp1990/Development/Upload to ImageShack/ISUpload.h
+c000000004A9F4A5C00000000000001B5
+t1251953244
+s437
+i<Cocoa/Cocoa.h>
+i<Automator/AMBundleAction.h>
+i<Automator/AMAction.h>
+i<OSAKit/OSAKit.h>
+
+N/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m
+c000000004A9F4B9700000000000013A7
+t1251953559
+s5031
+i"ISUpload.h"
+i<curl/curl.h>
+i<curl/types.h>
+i<curl/easy.h>
+
+N/Users/dcp1990/Development/Upload to ImageShack/ISUpload_Prefix.pch
+c000000004A9E5E700000000000000094
+t1251892848
+s148
+i<Cocoa/Cocoa.h>
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action
+t1251954269
+s102
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action/Contents/Info.plist
+t1251954212
+s3208
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action/Contents/MacOS/ISUpload
+t1251954228
+s16904
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action/Contents/Resources/English.lproj/InfoPlist.strings
+t1251954268
+s3134
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action/Contents/Resources/English.lproj/main.nib
+t1251954214
+s7460
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/Objects-normal/i386/ISUpload.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/Objects-normal/i386/ISUpload.o
+t2
+s0
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/Objects-normal/x86_64/ISUpload.LinkFileList
+c000000004A9F4E240000000000000093
+t1251954212
+s147
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/Objects-normal/x86_64/ISUpload.o
+t1251954228
+s36628
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/Script-25038767080C6D0B00E1128B.sh
+c000000004A9F4E240000000000000047
+t1251954212
+s71
+
+N/usr/lib/libcurl.dylib
+c000000004A11D20900000000000CFF90
+t1242681865
+s851856
+
+N/var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/ISUpload_Prefix-gxsarmniffveopgzglibgbxavinx/ISUpload_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/ISUpload_Prefix-hevtgkfzfbzveygibxqlnyrswbbr/ISUpload_Prefix.pch.gch
+t1251954228
+s54224656
+
+NInfo.plist
+c000000004A9F4DD00000000000000CEF
+t1251954128
+s3311
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies273647068#273647068#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC "build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/Objects-normal/i386/ISUpload.o" "/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/Objects-normal/x86_64/ISUpload.o" "/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s273647028.238737
+e273647028.568608
+r1
+xCompileC
+xbuild/Upload to ImageShack.build/Debug/Upload to ImageShack.build/Objects-normal/x86_64/ISUpload.o
+x/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m: In function '-[ISUpload runWithInput:fromAction:error:]':
+o/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m:136: warning: class 'ISUpload' does not implement the 'NSXMLParserDelegate' protocol
+o/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m:83: warning: unused variable 'returnurl'
+o/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m:77: warning: unused variable 'myerr'
+lSLF07#2@66"Compile /Users/dcp1990/Development/Upload to ImageShack/ISUpload.m273647028#273647028#0(458"/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m: In function '-[ISUpload runWithInput:fromAction:error:]':/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m:136: warning: class 'ISUpload' does not implement the 'NSXMLParserDelegate' protocol/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m:83: warning: unused variable 'returnurl'/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m:77: warning: unused variable 'myerr'3(22@70"Class 'ISUpload' does not implement the 'NSXMLParserDelegate' protocol273647028#118#144#0(6@58"/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m273646359#136#0#136#0#45"class '*' does not implement the '*' protocol0(22@27"Unused variable 'returnurl'273647028#262#100#0(6@58"/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m273646359#83#0#83#0#19"unused variable '*'0(22@23"Unused variable 'myerr'273647028#362#96#0(6@58"/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m273646359#77#0#77#0#19"unused variable '*'0(0#0#58"/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m4300882208#1299"    cd "/Users/dcp1990/Development/Upload to ImageShack"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/ISUpload.hmap" "-F/Users/dcp1990/Development/Upload to ImageShack/build/Debug" "-I/Users/dcp1990/Development/Upload to ImageShack/build/Debug/include" "-I/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/DerivedSources/x86_64" "-I/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/DerivedSources" -include /var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/ISUpload_Prefix-hevtgkfzfbzveygibxqlnyrswbbr/ISUpload_Prefix.pch -c "/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m" -o "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/Objects-normal/x86_64/ISUpload.o"0#
+
+CCompileXIB "/Users/dcp1990/Development/Upload to ImageShack/English.lproj/main.xib"
+s273647012.558721
+e273647014.698876
+r1
+xCompileXIB
+x/Users/dcp1990/Development/Upload to ImageShack/English.lproj/main.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/dcp1990/Development/Upload to ImageShack/English.lproj/main.xib:100015: warning: NSTextField's "Allows Only Roman Characters" will be ignored on Mac OS X versions prior to 10.5.
+o/Users/dcp1990/Development/Upload to ImageShack/English.lproj/main.xib:100015: warning: The property "Uses Single Line Mode" is not supported on Mac OS X versions prior to 10.6.
+lSLF07#2@33"CompileXIB English.lproj/main.xib273647012#273647014#0(404"/* com.apple.ibtool.document.warnings *//Users/dcp1990/Development/Upload to ImageShack/English.lproj/main.xib:100015: warning: NSTextField's "Allows Only Roman Characters" will be ignored on Mac OS X versions prior to 10.5./Users/dcp1990/Development/Upload to ImageShack/English.lproj/main.xib:100015: warning: The property "Uses Single Line Mode" is not supported on Mac OS X versions prior to 10.6.2(22@96"NSTextField's "Allows Only Roman Characters" will be ignored on Mac OS X versions prior to 10.5.273647014#18446744073709551615#0#0(6@70"/Users/dcp1990/Development/Upload to ImageShack/English.lproj/main.xib273644240#100015#0#100015#0#0"0(22@89"The property "Uses Single Line Mode" is not supported on Mac OS X versions prior to 10.6.273647014#18446744073709551615#0#0(6@70"/Users/dcp1990/Development/Upload to ImageShack/English.lproj/main.xib273644240#100015#0#100015#0#0"0(0#0#70"/Users/dcp1990/Development/Upload to ImageShack/English.lproj/main.xib4300882208#356"    cd "/Users/dcp1990/Development/Upload to ImageShack"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action/Contents/Resources/English.lproj/main.nib" "/Users/dcp1990/Development/Upload to ImageShack/English.lproj/main.xib"0#
+
+CCopyStringsFile "/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s273647068.892524
+e273647068.970376
+r1
+xCopyStringsFile
+x/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings273647068#273647068#0(0"0(0#0#79"/Users/dcp1990/Development/Upload to ImageShack/English.lproj/InfoPlist.strings4300882208#392"    cd "/Users/dcp1990/Development/Upload to ImageShack"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action/Contents/Resources/English.lproj"0#
+
+CLd "/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action/Contents/MacOS/ISUpload" normal i386
+r0
+
+CLd "/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action/Contents/MacOS/ISUpload" normal x86_64
+s273647028.568811
+e273647028.675064
+r1
+xLd
+x/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action/Contents/MacOS/ISUpload
+xnormal
+xx86_64
+lSLF07#2@104"Link /Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action/Contents/MacOS/ISUpload273647028#273647028#0(0"0(0#0#0"4300882208#683"    cd "/Users/dcp1990/Development/Upload to ImageShack"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/dcp1990/Development/Upload to ImageShack/build/Debug" "-F/Users/dcp1990/Development/Upload to ImageShack/build/Debug" -filelist "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/Objects-normal/x86_64/ISUpload.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework Automator -lcurl -framework OSAKit -o "/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action/Contents/MacOS/ISUpload"0#
+
+CPhaseScriptExecution "Run Script" "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/Script-25038767080C6D0B00E1128B.sh"
+s273647068.971007
+e273647069.299339
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/Script-25038767080C6D0B00E1128B.sh
+owarning: Folder name (ISUpload) does not match AMName (Upload to ImageShack)
+lSLF07#2@36"Run custom shell script 'Run Script'273647068#273647069#0(77"warning: Folder name (ISUpload) does not match AMName (Upload to ImageShack)1(22@67"Folder name (ISUpload) does not match AMName (Upload to ImageShack)273647069#0#77#0(1@0"0(0#0#0"4300882208#16975"    cd "/Users/dcp1990/Development/Upload to ImageShack"    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER dcp1990    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS x86_64    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386 ppc"    setenv ARCHS_STANDARD_32_BIT "i386 ppc"    setenv ARCHS_STANDARD_64_BIT x86_64    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR "/Users/dcp1990/Development/Upload to ImageShack/build"    setenv BUILD_ROOT "/Users/dcp1990/Development/Upload to ImageShack/build"    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR "/Users/dcp1990/Development/Upload to ImageShack/build/Debug"    setenv CACHE_ROOT /var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507    setenv CCHROOT /var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/JavaClasses"    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH "/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action"    setenv CODE_SIGNING_ALLOWED YES    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR "/Users/dcp1990/Development/Upload to ImageShack/build/Debug"    setenv CONFIGURATION_TEMP_DIR "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug"    setenv CONTENTS_FOLDER_PATH ISUpload.action/Contents    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH x86_64    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/DerivedSources"    setenv DERIVED_FILE_DIR "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/DerivedSources"    setenv DERIVED_SOURCES_DIR "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/DerivedSources"    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH /Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT "/tmp/Upload to ImageShack.dst"    setenv DWARF_DSYM_FILE_NAME ISUpload.action.dSYM    setenv DWARF_DSYM_FOLDER_PATH "/Users/dcp1990/Development/Upload to ImageShack/build/Debug"    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH ISUpload.action/Contents/Executables    setenv EXECUTABLE_FOLDER_PATH ISUpload.action/Contents/MacOS    setenv EXECUTABLE_NAME ISUpload    setenv EXECUTABLE_PATH ISUpload.action/Contents/MacOS/ISUpload    setenv FILE_LIST "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/Objects/LinkFileList"    setenv FIXED_FILES_DIR "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/FixedFiles"    setenv FRAMEWORKS_FOLDER_PATH ISUpload.action/Contents/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/dcp1990/Development/Upload to ImageShack/build/Debug\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME ISUpload.action    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD gnu99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_FIX_AND_CONTINUE YES    setenv GCC_ENABLE_OBJC_GC supported    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_MODEL_TUNING G5    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER ISUpload_Prefix.pch    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/dcp1990/Development/Upload to ImageShack/build/Debug/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH ISUpload.action/Contents/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH /InfoPlist.strings    setenv INSTALL_DIR "/tmp/Upload to ImageShack.dst/Users/dcp1990/Library/Automator"    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER dcp1990    setenv INSTALL_PATH /Users/dcp1990/Library/Automator    setenv INSTALL_ROOT "/tmp/Upload to ImageShack.dst"    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH ISUpload.action/Contents/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/ISUpload-LinkMap-normal-x86_64.txt"    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/dcp1990/Development/Upload to ImageShack/build/Debug\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_x86_64 "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/Objects-normal/x86_64/ISUpload.LinkFileList"    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_bundle    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1060    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0600    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/Objects"    setenv OBJECT_FILE_DIR_normal "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/Objects-normal"    setenv OBJROOT "/Users/dcp1990/Development/Upload to ImageShack/build"    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_OSAFLAGS "-x -t 0 -c 0"    setenv PACKAGE_TYPE com.apple.package-type.wrapper    setenv PASCAL_STRINGS YES    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH ISUpload.action/Contents/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/PkgInfo"    setenv PKGINFO_PATH ISUpload.action/Contents/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/usr    setenv PLATFORM_NAME macosx    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH ISUpload.action/Contents/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/PrefixHeaders"    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH ISUpload.action/Contents/PrivateHeaders    setenv PRODUCT_NAME ISUpload    setenv PRODUCT_SETTINGS_PATH "/Users/dcp1990/Development/Upload to ImageShack/Info.plist"    setenv PRODUCT_TYPE com.apple.product-type.bundle    setenv PROFILING_CODE NO    setenv PROJECT "Upload to ImageShack"    setenv PROJECT_DERIVED_FILE_DIR "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/DerivedSources"    setenv PROJECT_DIR "/Users/dcp1990/Development/Upload to ImageShack"    setenv PROJECT_FILE_PATH "/Users/dcp1990/Development/Upload to ImageShack/Upload to ImageShack.xcodeproj"    setenv PROJECT_NAME "Upload to ImageShack"    setenv PROJECT_TEMP_DIR "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build"    setenv PUBLIC_HEADERS_FOLDER_PATH ISUpload.action/Contents/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/ResourceManagerResources"    setenv REZ_OBJECTS_DIR "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/ResourceManagerResources/Objects"    setenv REZ_SEARCH_PATHS "\"/Users/dcp1990/Development/Upload to ImageShack/build/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH ISUpload.action/Contents/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/SDKs/MacOSX10.6.sdk    setenv SDK_DIR /Developer/SDKs/MacOSX10.6.sdk    setenv SDK_NAME macosx10.6    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR "/Users/dcp1990/Development/Upload to ImageShack/build/Debug/DerivedSources"    setenv SHARED_FRAMEWORKS_FOLDER_PATH ISUpload.action/Contents/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH ISUpload.action/Contents/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT "/Users/dcp1990/Development/Upload to ImageShack"    setenv SRCROOT "/Users/dcp1990/Development/Upload to ImageShack"    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE non-global    setenv SYMBOL_REPOSITORY_DIR "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/SymbolRepositories"    setenv SYMROOT "/Users/dcp1990/Development/Upload to ImageShack/build"    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME "Upload to ImageShack"    setenv TARGET_BUILD_DIR "/Users/dcp1990/Development/Upload to ImageShack/build/Debug"    setenv TARGET_NAME "Upload to ImageShack"    setenv TARGET_TEMP_DIR "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build"    setenv TEMP_DIR "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build"    setenv TEMP_FILES_DIR "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build"    setenv TEMP_FILE_DIR "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build"    setenv TEMP_ROOT "/Users/dcp1990/Development/Upload to ImageShack/build"    setenv UID 507    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH ISUpload.action/Contents/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER dcp1990    setenv USER_APPS_DIR /Users/dcp1990/Applications    setenv USER_LIBRARY_DIR /Users/dcp1990/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALID_ARCHS "i386 ppc ppc64 ppc7400 ppc970 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH ISUpload.action/Contents/version.plist    setenv VERSION_INFO_BUILDER dcp1990    setenv VERSION_INFO_FILE ISUpload_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:ISUpload  PROJECT:Upload to ImageShack-\""    setenv WRAPPER_EXTENSION action    setenv WRAPPER_NAME ISUpload.action    setenv WRAPPER_SUFFIX .action    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0320    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c "\"/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/Script-25038767080C6D0B00E1128B.sh\""0#
+
+CProcessInfoPlistFile "/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action/Contents/Info.plist" Info.plist
+s273647012.525975
+e273647012.557476
+r1
+xProcessInfoPlistFile
+x/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist273647012#273647012#0(0"0(0#0#58"/Users/dcp1990/Development/Upload to ImageShack/Info.plist4300882208#236"    cd "/Users/dcp1990/Development/Upload to ImageShack"    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o "/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/ISUpload_Prefix-gxsarmniffveopgzglibgbxavinx/ISUpload_Prefix.pch.gch ISUpload_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/ISUpload_Prefix-hevtgkfzfbzveygibxqlnyrswbbr/ISUpload_Prefix.pch.gch ISUpload_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s273647014.699082
+e273647028.238570
+r1
+xProcessPCH
+x/var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/ISUpload_Prefix-hevtgkfzfbzveygibxqlnyrswbbr/ISUpload_Prefix.pch.gch
+xISUpload_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile ISUpload_Prefix.pch273647014#273647028#0(0"0(0#0#67"/Users/dcp1990/Development/Upload to ImageShack/ISUpload_Prefix.pch4300882208#1161"    cd "/Users/dcp1990/Development/Upload to ImageShack"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/ISUpload.hmap" "-F/Users/dcp1990/Development/Upload to ImageShack/build/Debug" "-I/Users/dcp1990/Development/Upload to ImageShack/build/Debug/include" "-I/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/DerivedSources/x86_64" "-I/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Debug/Upload to ImageShack.build/DerivedSources" -c "/Users/dcp1990/Development/Upload to ImageShack/ISUpload_Prefix.pch" -o /var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/ISUpload_Prefix-hevtgkfzfbzveygibxqlnyrswbbr/ISUpload_Prefix.pch.gch0#
+
+CTouch "/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action"
+s273647069.299422
+e273647069.302000
+r1
+xTouch
+x/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action
+lSLF07#2@81"Touch /Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action273647069#273647069#0(0"0(0#0#0"4300882208#157"    cd "/Users/dcp1990/Development/Upload to ImageShack"    /usr/bin/touch -c "/Users/dcp1990/Development/Upload to ImageShack/build/Debug/ISUpload.action"0#
+

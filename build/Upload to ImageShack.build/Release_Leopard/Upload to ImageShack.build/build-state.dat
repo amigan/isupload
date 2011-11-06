@@ -1,0 +1,292 @@
+TUpload to ImageShack
+v7
+r1
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004A49A9E400000000000000EE
+t1246341604
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Automator.framework/Headers/AMAction.h
+c000000004864D0620000000000000686
+t1214566498
+s1670
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Automator.framework/Headers/AMBundleAction.h
+c000000004864D0620000000000000328
+t1214566498
+s808
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/OSAKit.framework/Headers/OSAKit.h
+c000000004864C83100000000000000FB
+t1214564401
+s251
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/curl/curl.h
+c0000000047BB09D8000000000000ED6C
+t1203440088
+s60780
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/curl/easy.h
+c0000000047BB09D80000000000000B67
+t1203440088
+s2919
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/curl/types.h
+c0000000047BB09D8000000000000000F
+t1203440088
+s15
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Automator.framework/Headers/AMAction.h
+c000000004A583AAC00000000000009C3
+t1247296172
+s2499
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Automator.framework/Headers/AMBundleAction.h
+c000000004A583AAC00000000000002F4
+t1247296172
+s756
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OSAKit.framework/Headers/OSAKit.h
+c000000004A597173000000000000011E
+t1247375731
+s286
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/curl/curl.h
+c000000004A11D204000000000001110E
+t1242681860
+s69902
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/curl/easy.h
+c000000004A11D2040000000000000DC6
+t1242681860
+s3526
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/curl/types.h
+c000000004A11D204000000000000000F
+t1242681860
+s15
+
+N/System/Library/Frameworks/Automator.framework/Automator
+c000000004A583AB2000000000071D740
+t1247296178
+s7460672
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/OSAKit.framework/OSAKit
+c000000004A59718600000000001457D0
+t1247375750
+s1333200
+
+N/Users/dcp1990/Development/Upload to ImageShack/English.lproj/InfoPlist.strings
+c000000004A9F4E590000000000000C3E
+t1251954265
+s3134
+
+N/Users/dcp1990/Development/Upload to ImageShack/English.lproj/main.xib
+c000000004A9F4350000000000000C49A
+t1251951440
+s50330
+
+N/Users/dcp1990/Development/Upload to ImageShack/ISUpload.h
+c000000004A9F4A5C00000000000001B5
+t1251953244
+s437
+i<Cocoa/Cocoa.h>
+i<Automator/AMBundleAction.h>
+i<Automator/AMAction.h>
+i<OSAKit/OSAKit.h>
+
+N/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m
+c000000004A9F4B9700000000000013A7
+t1251953559
+s5031
+i"ISUpload.h"
+i<curl/curl.h>
+i<curl/types.h>
+i<curl/easy.h>
+
+N/Users/dcp1990/Development/Upload to ImageShack/ISUpload_Prefix.pch
+c000000004A9E5E700000000000000094
+t1251892848
+s148
+i<Cocoa/Cocoa.h>
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Release_Leopard/ISUpload.action
+t2
+s0
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Release_Leopard/ISUpload.action.dSYM
+t2
+s0
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Release_Leopard/ISUpload.action/Contents/Info.plist
+t2
+s0
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Release_Leopard/ISUpload.action/Contents/MacOS/ISUpload
+t2
+s0
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Release_Leopard/ISUpload.action/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Release_Leopard/ISUpload.action/Contents/Resources/English.lproj/main.nib
+t2
+s0
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Release_Leopard/Upload to ImageShack.build/Objects-normal/i386/ISUpload
+t2
+s0
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Release_Leopard/Upload to ImageShack.build/Objects-normal/i386/ISUpload.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Release_Leopard/Upload to ImageShack.build/Objects-normal/i386/ISUpload.o
+t2
+s0
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Release_Leopard/Upload to ImageShack.build/Objects-normal/ppc/ISUpload
+t2
+s0
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Release_Leopard/Upload to ImageShack.build/Objects-normal/ppc/ISUpload.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Release_Leopard/Upload to ImageShack.build/Objects-normal/ppc/ISUpload.o
+t2
+s0
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Release_Leopard/Upload to ImageShack.build/Objects-normal/x86_64/ISUpload
+t2
+s0
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Release_Leopard/Upload to ImageShack.build/Objects-normal/x86_64/ISUpload.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Release_Leopard/Upload to ImageShack.build/Objects-normal/x86_64/ISUpload.o
+t2
+s0
+
+N/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Release_Leopard/Upload to ImageShack.build/Script-25038767080C6D0B00E1128B.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/lib/libcurl.dylib
+c000000004A11D20900000000000CFF90
+t1242681865
+s851856
+
+N/var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/ISUpload_Prefix-alehtadgplyhiseqxfshjkgheyoj/ISUpload_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/ISUpload_Prefix-dyqeummhnxajhfeyzysgbuaedvig/ISUpload_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/ISUpload_Prefix-etljlzclglmeujaumfwcyaulocmj/ISUpload_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/ISUpload_Prefix-fdzwqgconjbwjhgxwftcdmrvgnue/ISUpload_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/ISUpload_Prefix-fkpzvfptjmsastfmshuetpqmpgyb/ISUpload_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/ISUpload_Prefix-fzadzhljvqtsaqgahxlzvlvqtthq/ISUpload_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c000000004A9F4DD00000000000000CEF
+t1251954128
+s3311
+
+CCompileC "build/Upload to ImageShack.build/Release_Leopard/Upload to ImageShack.build/Objects-normal/i386/ISUpload.o" "/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Upload to ImageShack.build/Release_Leopard/Upload to ImageShack.build/Objects-normal/ppc/ISUpload.o" "/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Upload to ImageShack.build/Release_Leopard/Upload to ImageShack.build/Objects-normal/x86_64/ISUpload.o" "/Users/dcp1990/Development/Upload to ImageShack/ISUpload.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/dcp1990/Development/Upload to ImageShack/English.lproj/main.xib"
+r0
+
+CCopyStringsFile "/Users/dcp1990/Development/Upload to ImageShack/build/Release_Leopard/ISUpload.action/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCreateUniversalBinary "/Users/dcp1990/Development/Upload to ImageShack/build/Release_Leopard/ISUpload.action/Contents/MacOS/ISUpload" normal "x86_64 i386 ppc"
+r0
+
+CGenerateDSYMFile "/Users/dcp1990/Development/Upload to ImageShack/build/Release_Leopard/ISUpload.action.dSYM" "/Users/dcp1990/Development/Upload to ImageShack/build/Release_Leopard/ISUpload.action/Contents/MacOS/ISUpload"
+r0
+
+CLd "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Release_Leopard/Upload to ImageShack.build/Objects-normal/i386/ISUpload" normal i386
+r0
+
+CLd "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Release_Leopard/Upload to ImageShack.build/Objects-normal/ppc/ISUpload" normal ppc
+r0
+
+CLd "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Release_Leopard/Upload to ImageShack.build/Objects-normal/x86_64/ISUpload" normal x86_64
+r0
+
+CPhaseScriptExecution "Run Script" "/Users/dcp1990/Development/Upload to ImageShack/build/Upload to ImageShack.build/Release_Leopard/Upload to ImageShack.build/Script-25038767080C6D0B00E1128B.sh"
+r0
+
+CProcessInfoPlistFile "/Users/dcp1990/Development/Upload to ImageShack/build/Release_Leopard/ISUpload.action/Contents/Info.plist" Info.plist
+r0
+
+CProcessPCH /var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/ISUpload_Prefix-alehtadgplyhiseqxfshjkgheyoj/ISUpload_Prefix.pch.gch ISUpload_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/ISUpload_Prefix-dyqeummhnxajhfeyzysgbuaedvig/ISUpload_Prefix.pch.gch ISUpload_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/ISUpload_Prefix-etljlzclglmeujaumfwcyaulocmj/ISUpload_Prefix.pch.gch ISUpload_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/ISUpload_Prefix-fdzwqgconjbwjhgxwftcdmrvgnue/ISUpload_Prefix.pch.gch ISUpload_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/ISUpload_Prefix-fkpzvfptjmsastfmshuetpqmpgyb/ISUpload_Prefix.pch.gch ISUpload_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/ISUpload_Prefix-fzadzhljvqtsaqgahxlzvlvqtthq/ISUpload_Prefix.pch.gch ISUpload_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/dcp1990/Development/Upload to ImageShack/build/Release_Leopard/ISUpload.action"
+r0
+
